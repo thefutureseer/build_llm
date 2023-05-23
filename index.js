@@ -20,3 +20,12 @@ async function generateText(prompt) {
     throw error;
   }
 }
+
+
+async function main() {
+  const prompt = 'Count to 5';
+  const generatedText = await generateText(prompt);
+  console.log(generatedText);
+}
+
+main().catch(console.error);
