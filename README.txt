@@ -1,4 +1,6 @@
-Build an LLM on a specific subject solely:
+The code is to use an API for a trained LLM.
+
+Build an LLM solely on one subject:
 
 Here's a high-level overview:
 
