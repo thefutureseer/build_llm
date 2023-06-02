@@ -1,6 +1,6 @@
-The code is to use an API for a trained LLM.
+One way is to use an API for a trained LLM.
 
-Build an LLM solely on one subject:
+Im out to build an LLM solely on one subject:
 
 Here's a high-level overview:
 
